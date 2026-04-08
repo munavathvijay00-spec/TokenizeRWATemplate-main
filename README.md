@@ -40,11 +40,10 @@ This template covers the blockchain “token” part of real-world asset (RWA) t
 
 This is the fastest and easiest way to run the project.
 
-#### 2️⃣ Open in Codespaces
+#### 1️⃣ Open in Codespaces
 
-1. Go to your forked repository
-2. Click **Code → Codespaces → Create codespace**
-3. Wait for the environment to load and enter the workspace
+1. Click **Code → Codespaces → Create codespace**
+2. Wait for the environment to load and enter the workspace
 
 > When the Codespace loads, you may see an **"Open Workspace?"** popup in the bottom-right — click **Yes**.
 
@@ -52,7 +51,7 @@ Or manually enter it like below:
 
 <img width="2794" height="1524" alt="Codespace workspace setup" src="https://github.com/user-attachments/assets/41f25490-1284-4998-b342-27f7a0ffb420" />
 
-#### 3️⃣ Run the setup script
+#### 2️⃣ Run the setup script
 
 In the Codespaces terminal, run:
 
@@ -180,6 +179,7 @@ npm run dev
 ### Option B: GitHub UI
 
 You can also start the frontend directly using the GitHub Codespaces UI, which is useful for demos and workshops.
+
 
 
 ## 🧠  Final note (important)
