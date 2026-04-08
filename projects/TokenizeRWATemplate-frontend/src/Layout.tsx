@@ -73,6 +73,16 @@ export default function Layout() {
               >
                 Algorand Hackseries 3.0
               </span>
+              <span
+                className="hidden sm:inline-flex items-center px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider"
+                style={{
+                  background: 'rgba(168,85,247,0.1)',
+                  color: '#a855f7',
+                  border: '1px solid rgba(168,85,247,0.25)',
+                }}
+              >
+                Web3 Devs-Team
+              </span>
             </div>
           </NavLink>
 
@@ -166,6 +176,16 @@ export default function Layout() {
                 }}
               >
                 Algorand Hackseries 3.0
+              </span>
+              <span
+                className="px-2 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider"
+                style={{
+                  background: 'rgba(168,85,247,0.1)',
+                  color: '#a855f7',
+                  border: '1px solid rgba(168,85,247,0.25)',
+                }}
+              >
+                Web3 Devs-Team
               </span>
             </div>
             <p className="text-sm text-slate-500">
