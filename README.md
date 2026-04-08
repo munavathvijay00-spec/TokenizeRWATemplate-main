@@ -40,12 +40,6 @@ This template covers the blockchain “token” part of real-world asset (RWA) t
 
 This is the fastest and easiest way to run the project.
 
-#### 1️⃣ Fork the repository
-
-Click **Fork** (top-right of this page) to create your own copy.
-
-https://github.com/user-attachments/assets/92e746e1-3143-4769-8a5a-1339e4bd7a14
-
 #### 2️⃣ Open in Codespaces
 
 1. Go to your forked repository
@@ -187,14 +181,6 @@ npm run dev
 
 You can also start the frontend directly using the GitHub Codespaces UI, which is useful for demos and workshops.
 
-## Pro Tip!
-GitHub Codespaces is available on free accounts, but it includes up to 60 hours per month.
-To avoid losing your work, commit and sync your changes regularly (as shown in the demo video) so everything is saved to your forked repository.
-#### A “commit” is like hitting save with a short note, it records your changes in Git so you can keep them and come back to them later.
-
-https://github.com/user-attachments/assets/dd452ea1-3070-4718-af34-bea978e208ab
-
----
 
 ## 🧠  Final note (important)
 - ✅ The app setup is mostly automatic
