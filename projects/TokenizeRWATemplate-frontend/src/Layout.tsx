@@ -90,7 +90,8 @@ export default function Layout() {
           <div className="hidden sm:flex items-center gap-1">
             {[
               { label: 'Home', to: '/' },
-              { label: 'Tokenize', to: '/tokenize' },
+              { label: 'Marketplace', to: '/marketplace' },
+              { label: 'Create RWA', to: '/tokenize' },
               { label: 'Portfolio', to: '/portfolio' },
             ].map(({ label, to }) => (
               <NavLink

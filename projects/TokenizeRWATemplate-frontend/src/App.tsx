@@ -5,6 +5,7 @@ import { useMemo } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './Home'
 import Layout from './Layout'
+import Marketplace from './Marketplace'
 import PortfolioPage from './PortfolioPage'
 import TokenizePage from './TokenizePage'
 import { getAlgodConfigFromViteEnvironment, getKmdConfigFromViteEnvironment } from './utils/network/getAlgoClientConfigs'
@@ -95,6 +96,7 @@ export default function App() {
             <Routes>
               <Route element={<Layout />}>
                 <Route path="/" element={<Home />} />
+                <Route path="/marketplace" element={<Marketplace />} />
                 <Route path="/tokenize" element={<TokenizePage />} />
                 <Route path="/portfolio" element={<PortfolioPage />} />
               </Route>
